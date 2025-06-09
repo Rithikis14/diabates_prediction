@@ -61,7 +61,7 @@ Evaluation Metric: Accuracy, Confusion Matrix
 Target: Predict if a person is diabetic (1) or not (0)
 
 ## 🖼️ Screenshot
-![Diabetes Prediction App Screenshot](Screenshot 2025-06-09 154445.png)
+![Diabetes Prediction App Screenshot](https://github.com/Rithikis14/diabates_prediction/blob/main/Screenshot%202025-06-09%20154445.png?raw=true)
 
 🙋‍♂️ Author
 Rithik V Kumar
